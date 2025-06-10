@@ -1,5 +1,4 @@
 # Fnbwk2
-FNB App Academy
 # 🎨 Week 2 – Getting Into CSS: Making Things Look Good
 
 This week is where things start to get a lot more fun. Now that I’ve got a solid grip on HTML, it’s time to bring in **CSS** the part that makes websites look *good*.
