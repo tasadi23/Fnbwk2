@@ -31,5 +31,5 @@ By the end of this week, I’ll take what I learned in Week 1 (HTML) and combine
 
 ## 🔁 The Goal
 
-I'm not just learning syntax or copying code. I want to really understand how CSS works, how it fits with HTML, and how to control the way my app looks — down to the smallest detail. It’s about getting hands-on, making mistakes, and building something I’m proud of.
+I'm not just learning syntax or copying code. I want to really understand how CSS works, how it fits with HTML, and how to control the way my app looks down to the smallest detail. It’s about getting hands-on, making mistakes, and building something I’m proud of.
 
