@@ -2,13 +2,13 @@
 FNB App Academy
 # 🎨 Week 2 – Getting Into CSS: Making Things Look Good
 
-This week is where things start to get a lot more fun. Now that I’ve got a solid grip on HTML, it’s time to bring in **CSS** — the part that makes websites look *good*.
+This week is where things start to get a lot more fun. Now that I’ve got a solid grip on HTML, it’s time to bring in **CSS** the part that makes websites look *good*.
 
 ---
 
 ## 💡 What's CSS All About?
 
-CSS (Cascading Style Sheets) is basically how you style a web page. While HTML is all about structure and content, CSS is where design lives — fonts, colors, layout, spacing, and even cool stuff like hover effects.
+CSS (Cascading Style Sheets) is basically how you style a web page. While HTML is all about structure and content, CSS is where design lives fonts, colors, layout, spacing, and even cool stuff like hover effects.
 
 So this week, I’m learning how to:
 
@@ -25,7 +25,7 @@ So this week, I’m learning how to:
 
 ## 🧩 Putting It All Together
 
-By the end of this week, I’ll take what I learned in Week 1 (HTML) and combine it with all this new CSS knowledge to build my **first full app**. Not just a demo or an experiment — a real, functional app that looks and feels intentional.
+By the end of this week, I’ll take what I learned in Week 1 (HTML) and combine it with all this new CSS knowledge to build my **first full app**. Not just a demo or an experiment, a real, functional app that looks and feels intentional.
 
 ---
 
